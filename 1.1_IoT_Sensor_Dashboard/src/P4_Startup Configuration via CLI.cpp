@@ -46,7 +46,7 @@ void StartupCLI(int warn, int critical, int num_readings){
 
 }
 
-int main(int argc, char* argv[]){
+int main4(int argc, char* argv[]){
 
 
 	if(argc != 4){
